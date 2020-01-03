@@ -45,41 +45,6 @@
     }
   }
   
-  /* commenting out the old nav menu
-  .topnav {
-    overflow: hidden;
-    background-color: #333;
-  }
-  .topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  .topnav a.active {
-    background-color: rgb(14, 66, 114);
-    color: white;
-  }
-  */
-  
-  
-  
-  /*
-  ***
-  * original about me
-  ***
-  * all of the info below
-  * is from the original about me fork
-  ***
-  */
-  
-  
   .content-footer,
   .masthead-heading,
   .masthead-intro {
@@ -88,7 +53,7 @@
   
   .masthead {
     padding: 6em 0;
-    background-image: url('../images/killerwhale.jpg');
+    background-image: url('images/killerwhale.jpg');
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -140,18 +105,3 @@
     text-align: center;
   }
   
-  /* removing unused styles
-  .footer {
-    padding: 20px 0;
-    text-align: center;
-    background-color: rgb(14, 22, 136;
-    text-decoration: none;
-  }
-  #footer a {
-    color: rgb(14, 22, 136;
-  }
-  .social > li {
-    display: inline-block;
-    margin: 0 5px;
-  }
-  */
